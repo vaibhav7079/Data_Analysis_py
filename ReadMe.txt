@@ -13,4 +13,3 @@ DATA AVAILABILITY:
 Customer: Customers information including demographics
 Transaction: Transactions of customers
 Product Heirarchy: Product information (cateogry, sub category etc...)
-lkjuyhgtrfdewsdcvfgb jhgjhv
