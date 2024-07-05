@@ -3,7 +3,6 @@ anything more important than the ability for optimizing service business process
 trying to satisfy the expectations of customers. Channelizing and managing data with the
 aim of working in favor of the customer as well as generating profits is very significant for
 survival.
-
 for big retail players all over the world, data analytics is applied more these
 days at all stages of the retail process – taking track of popular products that are emerging,
 doing forecasts of sales and future demand via predictive simulation, optimizing placements
